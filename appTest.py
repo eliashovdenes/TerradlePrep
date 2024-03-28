@@ -28,7 +28,7 @@ with st.container():
     
     st.subheader("Skibidi bop mm dada!", anchor=False)
     st.title("Gaming is fun! :video_game:", anchor=False)
-    st.write("[My proudest achievement!](https://www.youtube.com/watch?v=G1RnhpIMQFI)")
+    
 
 with st.container():
     st.write("---")

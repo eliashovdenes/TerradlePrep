@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-from streamlit_lottie import st_lottie
 
 st.set_page_config(page_title="Terradle practice!", page_icon=":deciduous_tree:", layout="wide")
 
